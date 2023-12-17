@@ -5,6 +5,8 @@ Parse-and-prettify is an innovative Python-based tool that transforms the way we
 
 Tutorial 
 
+Access the Python script for parse-and-prettify in the main.py file of this GitHub repo. 
+
 Under # Sample HTML content, view how the text for your article should be prepared and then swap out the text to your own article. 
 
 Feel free to edit the script however you need to in order to meet your needs! I mostly use it to glance at the emojis it creates and then ctrl-C and ctrl-V replace out the [1], [2], [3] references in my articles with their respective emojis. 
