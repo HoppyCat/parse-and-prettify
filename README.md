@@ -3,9 +3,8 @@
 
 `Parse-and-prettify` is an innovative Python-based tool that transforms the way we reference content in AI web blogs. Utilizing the power of the Natural Language Toolkit (NLTK) for sentiment analysis and Beautiful Soup for HTML parsing, this script assigns emojis to citations based on the emotional tone of the referenced content. If the sentiment is neutral or undetectable, it cleverly selects emojis related to keywords found near the citation. In the absence of strong sentiment or keywords, `parse-and-prettify` livens up your articles by inserting a random emoji. Each emoji serves as an interactive link, opening the source content in a new window, providing readers with a visually engaging and intuitive way to access references. Embrace a unique and playful approach to citations with `parse-and-prettify`, and make your AI web blogs stand out!
 
-Tutorial 
-
 ---
+Tutorial 
 
 Access the Python script for `parse-and-prettify` in the main.py file of this GitHub repo. 
 
